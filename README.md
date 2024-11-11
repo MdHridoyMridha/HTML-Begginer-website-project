@@ -1,1 +1,1 @@
-# HTML-Begginer-website-project
+# HTML-Beginner-website-project
